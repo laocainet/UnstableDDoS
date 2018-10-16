@@ -2,7 +2,7 @@
 
 ### Gereksinimler - Requirements
 **Linux OS**
->`pip3 install pysocks bs4 scapy-python3`
+>`pip3 install pysocks bs4 kamene`
 
 
 ------------
