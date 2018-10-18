@@ -2,7 +2,7 @@
 
 ### Gereksinimler - Requirements
 **Linux OS**
->`pip3 install pysocks bs4 kamene`
+>`pip3 install -r requirements.txt`
 
 
 ------------
@@ -16,4 +16,4 @@ Video: https://www.youtube.com/watch?v=2hib9WjpJo8
 Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
 
 
-Contact: iletisim@UN5T48L3.com
+Contact: UN5T48L3@pm.me
