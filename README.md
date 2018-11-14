@@ -3,8 +3,8 @@
 ### Gereksinimler - Requirements
 **Linux OS**
 >`sudo apt-get install python3-pip`
-and
-`pip3 install -r requirements.txt`
+>
+>`pip3 install -r requirements.txt`
 
 
 
